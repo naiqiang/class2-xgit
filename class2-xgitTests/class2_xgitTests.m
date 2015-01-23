@@ -30,6 +30,9 @@
 
 - (void)testExample {
     // This is an example of a functional test case.
+    
+    NSLog(@"example");
+    
     XCTAssert(YES, @"Pass");
 }
 
